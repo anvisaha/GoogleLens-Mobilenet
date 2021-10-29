@@ -1,0 +1,40 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background: #779bff;
+    font-size: 35x;
+}
+
+h6  {
+    color: rgb(26, 26, 26);
+    font-size: 50px;
+}
+
+h6 img {
+    height: 100px;
+    width: 150px;
+}
+
+.test_images_and_result {
+    margin: 10px;
+    margin-right: 2390px;
+    background-color: rgb(149, 219, 252);
+    box-align: left;
+    width: 75%;
+    color: rgb(26, 26, 26);
+    border:rgb(149, 219, 252) 3px;
+    border-radius: 40px;
+}
+
+.test_images_and_result h5, b, h4 {
+    font-size: 20px;
+}
+
+.footer_div {
+    margin-bottom: 50px;
+}
+
+.footer_div h4 {
+    background: rgb(31, 58, 83);
+    border-radius: 10px;
+    padding: 5px;
+}
